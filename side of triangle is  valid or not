@@ -1,0 +1,9 @@
+
+# a=int(input("enter the frist side"))
+# b=int(input("enter the frist side"))
+# c=int(input("enter the frist side"))
+
+# if a+b>=c and b+c>=a and c+a>=b:
+#     print("triangle is valid")
+# else:
+#     print("triangle is not valid")
